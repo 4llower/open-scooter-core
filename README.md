@@ -1,0 +1,1 @@
+# Orchestrator component (Core) for "box" solution of kick scooters sharing
